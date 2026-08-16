@@ -1,2 +1,1 @@
-# py-tmpl
-Python開発環境のテンプレート
+# Python Web開発実践入門
