@@ -1,4 +1,4 @@
-FROM python:3.11 as base
+FROM debian:trixie as base
 
 FROM base AS dev
 
